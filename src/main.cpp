@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <GL\glut.h>
+#include <GL/glut.h>
 #include "lightCycle.h"
 #define DEBUG false
 using namespace std;

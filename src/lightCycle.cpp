@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
-#include <GL\glut.h>
+#include <GL/glut.h>
+#include <cmath>
 #include "Posn.h"
 #include "lightCycle.h"
 static float CIRCLE_DISTANCE = 800.0f;
